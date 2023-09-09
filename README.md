@@ -79,10 +79,3 @@ Hint: Refer to Lab: Working with files in Jupyter Notebooks to download the note
 
 ### Exercise 13 -Take a screenshot of the first page of the notebook and save it as 1-notebook.png(Images can be saved with either the .jpg or .png extension.)
 Refer to Hands-on Lab: Getting Started with GitHub to upload the downloaded notebook to GitHub.
-
-Malika Singla
-
-Change Log
-Date (YYYY-MM-DD)	Version	Changed By	Change Description
-2023-01-19	1.0	Rav Ahuja	Final edits for publishing
-2022-10-19	0.1	Lakshmi Holla	Created Initial version
